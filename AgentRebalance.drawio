@@ -1,1 +1,274 @@
-<mxfile host="Electron" modified="2021-08-10T10:52:17.887Z" agent="5.0 (Macintosh; Intel Mac OS X 11_5_1) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/14.6.13 Chrome/89.0.4389.128 Electron/12.0.7 Safari/537.36" etag="ln5pwiqwrrdbkRG1ROHz" version="14.6.13" type="device"><diagram id="Cs8VYSzviX3HukUYh3YY" name="Page-1">7Vxbc6M2FP41nsk+xIMQAvzoJJvudrLTnU3SbvuSISDbTDDygpzE/fWVQNgggcEJ4EuThxgOQsC5fOcmGMDL+etvkbOYfSMeDga65r0O4NVA1w0dsv+csEoJpo5SwjTyvZQENoRb/18siJqgLn0Px4WBlJCA+osi0SVhiF1aoDlRRF6KwyYkKF514UyxQrh1nUCl/uV7dCaohqZtDnzB/nQmLm0jcWDuZIMFIZ45HnnJkeDnAbyMCKHp1vz1Egecdxlf0vOuK46ubyzCIW1yAhqDOL65B3/e/KOdX39/cseRey5meXaCpXjgb4IU01XGA3bnC765nAc3/gQHfsj2LhY48ueY4ogdCQT5+4Z2wSRCHUbjx0GyHwTOIvYfk2k1Romwu4xi/xn/wHEq+IRKlqGHPbG35lqyQyPytJYDn1TcPo4ofq3kC1hzm2kpJuwGoxUbkp2QCUhoqC12X3LizqQ9y0nayiTtCBWbrqfeSIFtCEHsIBRdEYoikgXxQ5pcF10M0JUkDhLRGZmS0AnyAmmfsdUqVcltAxWYbZUxW+W1qXfFa6jw+nfGWsYl/ZppJXXY83sK9zlbfIYR48Cfhoz0SCgl84SP7IQxhx0uBTYpo+HQyyiPAXGfsmEC6+ymssCeglRNJMHw0ommeNs4vVxiEQ4cyqyziKklAhCnfuc6uZH0OdJKRZ3NEJNl5GJxkiTF9V28XbDAqLciBj/PiUGAopzcwIlj32XEGZ0HbUhB5W5O41GJxme0dwpBkoFtNJJB3TRANsdUxZR5GD+dVW6YQK3Kux2V3m3VTUmjASj4P7aRXr5drTIVrWK6MR7oZsAEd/EYsa0pTbQlpXj+c0YK/JiOg+Db7Rmzf4oflotP2Sh2L7mB1eeOp0zX4jO6WuAHBufUD6eVc0i6zhX3xnnEQVGrHQFhAZ7w02Rkm/uex2dgvpq5aGfju1UHVOkxRGgmTt4ERPWWY2x1JdpQgwYs6kArRjMqnkAmkxh3glFIjb5UkDrt6AuCYkBQFn2VRQQW7CoiUC38mKIvtJXbSC8wuzzWVZm9znZaZ/ZIYfbzJXtAxrH/lxkYdn0SUmoGRleSya52pHYw2m4HRW6jhmlIZ5gD1DTkB/61ZAkIIyZOf8C9JoMmCDinfuBHJ3BCF/OShuMHsSKayhQlF+aSBQ55mOHEs3wU3DwxYfcVrX7yw0OU7f6d7o7WhKtXcX66t8rv5RQjIQ7qY+ztdsRiAtuUYgK7laAAWEWdYZg41HJ/0oQVEbEyLTStXaatCNirA231wt2HNcCqh46dUi/86tOfue1UxzTLEPsbFeM7q9yOrGBrjQVFfdUNq1997Sf9k5VWB5CZZu7vjfmgMq9hDg2zet6W8kNdQ+rjbE8SlVPgSDqlo0TRVmxAL00UGUa7nAXPN8Txzj4phnKMeZtVh9FHnrcBNWz9ALjDADiTsS2PcC3h20gfjvTKabuCN1PbepfKeNvsHth0NS+ApcDGS1ZnjC1fSEzjO7IOWU8D4rbnF8cPcRmifUDcoUEc1MwixKF2MA5Cu4Bxcq+gI5Bjj7MTyEGo9wByaj5ulIIcB7ev4X2MH1fjcEV4Ter6FPAttfZTxrcG7cEWOoKHhRxysbApVFhazUQV2NCasNRkCiXmqC0XnkN5FSzVcV0ji4cZs8kHGjlhPOF1ZNlkz/jxr95Av+SXDX3qO8EfL7xEnFAmS7qMcELYOVJx09L1odlyXRtNBwgU5HvekjHbpbP2YNxqY+1K7YiedkfBlFv/e2+s6cfdWdNrWmtKIqryu8+Wgt6gRtGWg2uwxsg8KEfYcC2Sug5GWisIzX4dIVSTbzN1hDGTZb4r5JL53AmZl9NUD0gJH7CMorSvxGNY9iN84El4vLrsvCuPdy7pR38uD6oreRVZfuTrfYANlMHG1lrJ1+V5DaD3ka8bcv5tby9KyuMNrYeiJFSrVVaKiywYw1yWZTiYx8soa7cff+4Oa1vkR567QzW8/8C6g8A6A3WEdfZesM5AO2Kd1QfWqWmUnWLd2OPx3iwN5/yQP3i6dEgGvjtyJ8ojXz116dAxQt723OwEIK9BNncYuXPNcl/ZsEdCm2tXoFaL5n3v/3ysVTpQX4J4K99sx38gqX9v9+I+UE3/XhnfR/8eqrV0vqSU+w93ht2nAS/mxMkPUx+yPI2Q+NRXJBlqYegDxvYEY6bk4UYthcTFeREEfUAaAPLTbIc0aTwSrZhOIc1Qa1+jFNEYC1ikG4cs0r11nfAuAbbjhzNDG5Rq+OnAWYNW0bF35+UYxcwWnbx3IY8yUcdNCUMNoQHYdCXYz7rQJloNJaugs3bFbsZ5mO0Ho6LZ1Xn7AZils/Zgr2pQubO9VsQJXcYIDfqWoAJq+2pcGkXTlr850hgjpPcLTdgzRqj1C6CLrCM1s5gfrXj38zhRwN4TCpwDY184gNRITBHmRxqyjyUPpvX2aoo8l6X1UU2RF/6a1m5vQ5ijHqop2Qv1eVyDBVwbrCvyLNZx5guOW8n/0jhIBExz4vmTVWI3JOJfKGOaRUjQWtx0iEkNOvW2JVIXle8eJAk8FC9crxHRtsHOiHhsEGbpYJixbOfqiTkaotrZOg6CkLrmHKSvFWjXfujHs1yq5IfT0wiDUq3fRxgEy6ftwdAb9JSOoVlnZu85ZsU/KBR4X2taUYM08xgYK79PYWbf/9gXYw01jHmHaxoVXBNPNbtyTewGEwew5dFEzFv/EcSKJQQ9+TopP4dvTfQtUDNR14m+GuTcZ+/oiDj4xaezRLUcuoxLv5z3a0ny6/MSX5gRT8Mrpga3D6+4r9IAPLVPHBl2p584agBt+juhLVMJbWgBCCW9sFpRN9nTGQ3hqKRbIn0nCTQDyJ2rDvICJcGYyvtCu403RlvHF6sU7Xy0ie1uvjKeDt98qh1+/g8=</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2021-08-10T11:20:15.003Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.131 Safari/537.36" etag="XvXlAVr4WNaMk_GwXdVo" version="14.9.5" type="github">
+  <diagram id="Cs8VYSzviX3HukUYh3YY" name="Page-1">
+    <mxGraphModel dx="782" dy="468" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1400" pageHeight="850" math="0" shadow="0">
+      <root>
+        <object label="" id="0">
+          <mxCell />
+        </object>
+        <mxCell id="1" parent="0" />
+        <mxCell id="5A1ssLU1VLZ0-FPkcArc-1" value="M1" style="shape=umlLifeline;perimeter=lifelinePerimeter;container=1;collapsible=0;recursiveResize=0;rounded=0;shadow=0;strokeWidth=1;" parent="1" vertex="1">
+          <mxGeometry x="120" y="80" width="100" height="750" as="geometry" />
+        </mxCell>
+        <mxCell id="5A1ssLU1VLZ0-FPkcArc-2" value="" style="points=[];perimeter=orthogonalPerimeter;rounded=0;shadow=0;strokeWidth=1;" parent="5A1ssLU1VLZ0-FPkcArc-1" vertex="1">
+          <mxGeometry x="45" y="70" width="10" height="620" as="geometry" />
+        </mxCell>
+        <mxCell id="5A1ssLU1VLZ0-FPkcArc-3" value="Joined/Restarted" style="verticalAlign=bottom;startArrow=oval;endArrow=block;startSize=8;shadow=0;strokeWidth=1;" parent="5A1ssLU1VLZ0-FPkcArc-1" target="5A1ssLU1VLZ0-FPkcArc-2" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-50" y="70" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="5A1ssLU1VLZ0-FPkcArc-14" value="" style="curved=1;endArrow=classic;html=1;" parent="5A1ssLU1VLZ0-FPkcArc-1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="50" y="84" as="sourcePoint" />
+            <mxPoint x="50" y="120" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="90" y="84" />
+              <mxPoint x="90" y="110" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="5A1ssLU1VLZ0-FPkcArc-16" value="1:&lt;br&gt;&lt;div&gt;listAllMS(state_up)&lt;/div&gt;&lt;div&gt;listAllAgents(type_routing)&lt;/div&gt;" style="edgeLabel;html=1;align=left;verticalAlign=middle;resizable=0;points=[];" parent="5A1ssLU1VLZ0-FPkcArc-14" vertex="1" connectable="0">
+          <mxGeometry x="0.0343" y="1" relative="1" as="geometry">
+            <mxPoint x="9" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="5A1ssLU1VLZ0-FPkcArc-5" value="M2" style="shape=umlLifeline;perimeter=lifelinePerimeter;container=1;collapsible=0;recursiveResize=0;rounded=0;shadow=0;strokeWidth=1;" parent="1" vertex="1">
+          <mxGeometry x="315" y="80" width="110" height="730" as="geometry" />
+        </mxCell>
+        <mxCell id="5A1ssLU1VLZ0-FPkcArc-6" value="" style="points=[];perimeter=orthogonalPerimeter;rounded=0;shadow=0;strokeWidth=1;" parent="5A1ssLU1VLZ0-FPkcArc-5" vertex="1">
+          <mxGeometry x="52" y="280" width="10" height="400" as="geometry" />
+        </mxCell>
+        <mxCell id="5A1ssLU1VLZ0-FPkcArc-9" value="vCenter" style="shape=umlLifeline;perimeter=lifelinePerimeter;container=1;collapsible=0;recursiveResize=0;rounded=0;shadow=0;strokeWidth=1;" parent="1" vertex="1">
+          <mxGeometry x="480" y="80" width="110" height="740" as="geometry" />
+        </mxCell>
+        <mxCell id="5A1ssLU1VLZ0-FPkcArc-10" value="" style="points=[];perimeter=orthogonalPerimeter;rounded=0;shadow=0;strokeWidth=1;" parent="5A1ssLU1VLZ0-FPkcArc-9" vertex="1">
+          <mxGeometry x="50" y="570" width="10" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="5A1ssLU1VLZ0-FPkcArc-13" value="Request Agent &#xa;Rebalance fails" style="verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;shadow=0;strokeWidth=1;entryX=0.5;entryY=0.595;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" edge="1">
+          <mxGeometry x="0.0863" y="18" relative="1" as="geometry">
+            <mxPoint x="170" y="400.0000000000001" as="targetPoint" />
+            <mxPoint x="367" y="400.0000000000001" as="sourcePoint" />
+            <Array as="points" />
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="5A1ssLU1VLZ0-FPkcArc-17" value="" style="curved=1;endArrow=classic;html=1;exitX=1;exitY=0.074;exitDx=0;exitDy=0;exitPerimeter=0;entryX=1;entryY=0.247;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="170" y="213.59999999999994" as="sourcePoint" />
+            <mxPoint x="170" y="246.46999999999994" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="205" y="213.54" />
+              <mxPoint x="205" y="239.54" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="5A1ssLU1VLZ0-FPkcArc-18" value="2:&lt;br&gt;calc avLoad()" style="edgeLabel;html=1;align=left;verticalAlign=middle;resizable=0;points=[];" parent="5A1ssLU1VLZ0-FPkcArc-17" vertex="1" connectable="0">
+          <mxGeometry x="0.0343" y="1" relative="1" as="geometry">
+            <mxPoint x="9" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="5A1ssLU1VLZ0-FPkcArc-19" value="" style="curved=1;endArrow=classic;html=1;exitX=1;exitY=0.074;exitDx=0;exitDy=0;exitPerimeter=0;entryX=1;entryY=0.247;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="170" y="260.0599999999999" as="sourcePoint" />
+            <mxPoint x="170" y="292.9299999999999" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="205" y="260" />
+              <mxPoint x="205" y="286" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="5A1ssLU1VLZ0-FPkcArc-20" value="3:&lt;br&gt;list(getHostsToRebalance)" style="edgeLabel;html=1;align=left;verticalAlign=middle;resizable=0;points=[];" parent="5A1ssLU1VLZ0-FPkcArc-19" vertex="1" connectable="0">
+          <mxGeometry x="0.0343" y="1" relative="1" as="geometry">
+            <mxPoint x="9" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="5A1ssLU1VLZ0-FPkcArc-22" value="" style="curved=1;endArrow=classic;html=1;exitX=1;exitY=0.074;exitDx=0;exitDy=0;exitPerimeter=0;entryX=1;entryY=0.247;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="170" y="306.05999999999995" as="sourcePoint" />
+            <mxPoint x="170" y="338.92999999999984" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="205" y="306" />
+              <mxPoint x="205" y="332" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="5A1ssLU1VLZ0-FPkcArc-23" value="4:&lt;br&gt;HostInUsebyAnyone?" style="edgeLabel;html=1;align=left;verticalAlign=middle;resizable=0;points=[];" parent="5A1ssLU1VLZ0-FPkcArc-22" vertex="1" connectable="0">
+          <mxGeometry x="0.0343" y="1" relative="1" as="geometry">
+            <mxPoint x="9" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="5A1ssLU1VLZ0-FPkcArc-24" value="" style="endArrow=classic;html=1;" parent="1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="170" y="340" as="sourcePoint" />
+            <mxPoint x="700" y="340" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="5A1ssLU1VLZ0-FPkcArc-28" value="5: update table op_host_transfer&lt;br&gt;(hostId, initialOwner, futureOwner)" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="5A1ssLU1VLZ0-FPkcArc-24" vertex="1" connectable="0">
+          <mxGeometry x="0.2151" y="-1" relative="1" as="geometry">
+            <mxPoint x="98" y="-1" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="5A1ssLU1VLZ0-FPkcArc-25" value="DB" style="shape=umlLifeline;perimeter=lifelinePerimeter;container=1;collapsible=0;recursiveResize=0;rounded=0;shadow=0;strokeWidth=1;" parent="1" vertex="1">
+          <mxGeometry x="650" y="80" width="110" height="730" as="geometry" />
+        </mxCell>
+        <mxCell id="5A1ssLU1VLZ0-FPkcArc-26" value="" style="points=[];perimeter=orthogonalPerimeter;rounded=0;shadow=0;strokeWidth=1;" parent="5A1ssLU1VLZ0-FPkcArc-25" vertex="1">
+          <mxGeometry x="50" y="260" width="10" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="5A1ssLU1VLZ0-FPkcArc-29" value="" style="endArrow=classic;html=1;" parent="1" target="5A1ssLU1VLZ0-FPkcArc-6" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="170" y="370" as="sourcePoint" />
+            <mxPoint x="520" y="360" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="5A1ssLU1VLZ0-FPkcArc-30" value="6: sendRebalance command &lt;br&gt;to current Host Owner" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="5A1ssLU1VLZ0-FPkcArc-29" vertex="1" connectable="0">
+          <mxGeometry x="0.2151" y="-1" relative="1" as="geometry">
+            <mxPoint x="-20" y="-1" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="5A1ssLU1VLZ0-FPkcArc-31" value="" style="curved=1;endArrow=classic;html=1;exitX=1;exitY=0.074;exitDx=0;exitDy=0;exitPerimeter=0;entryX=1;entryY=0.247;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="370" y="380.05999999999995" as="sourcePoint" />
+            <mxPoint x="370" y="412.92999999999984" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="405" y="380" />
+              <mxPoint x="405" y="406" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="5A1ssLU1VLZ0-FPkcArc-32" value="7: receive &lt;br&gt;Rebalance request" style="edgeLabel;html=1;align=left;verticalAlign=middle;resizable=0;points=[];" parent="5A1ssLU1VLZ0-FPkcArc-31" vertex="1" connectable="0">
+          <mxGeometry x="0.0343" y="1" relative="1" as="geometry">
+            <mxPoint x="9" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="5A1ssLU1VLZ0-FPkcArc-35" value="" style="curved=1;endArrow=classic;html=1;exitX=1;exitY=0.074;exitDx=0;exitDy=0;exitPerimeter=0;entryX=1;entryY=0.247;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="370" y="450.05999999999995" as="sourcePoint" />
+            <mxPoint x="370" y="482.92999999999984" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="405" y="450" />
+              <mxPoint x="405" y="476" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="5A1ssLU1VLZ0-FPkcArc-36" value="8: Add host in agent&lt;br&gt;ToTransferIds" style="edgeLabel;html=1;align=left;verticalAlign=middle;resizable=0;points=[];" parent="5A1ssLU1VLZ0-FPkcArc-35" vertex="1" connectable="0">
+          <mxGeometry x="0.0343" y="1" relative="1" as="geometry">
+            <mxPoint x="9" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="5A1ssLU1VLZ0-FPkcArc-39" value="" style="points=[];perimeter=orthogonalPerimeter;rounded=0;shadow=0;strokeWidth=1;" parent="1" vertex="1">
+          <mxGeometry x="370" y="496" width="10" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="5A1ssLU1VLZ0-FPkcArc-37" value="" style="curved=1;endArrow=classic;html=1;exitX=1;exitY=0.074;exitDx=0;exitDy=0;exitPerimeter=0;entryX=1;entryY=0.247;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="370" y="560.06" as="sourcePoint" />
+            <mxPoint x="370" y="592.9299999999998" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="405" y="560" />
+              <mxPoint x="405" y="586" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="5A1ssLU1VLZ0-FPkcArc-38" value="10: check task timeout" style="edgeLabel;html=1;align=left;verticalAlign=middle;resizable=0;points=[];" parent="5A1ssLU1VLZ0-FPkcArc-37" vertex="1" connectable="0">
+          <mxGeometry x="0.0343" y="1" relative="1" as="geometry">
+            <mxPoint x="9" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="5A1ssLU1VLZ0-FPkcArc-40" value="" style="curved=1;endArrow=classic;html=1;exitX=1;exitY=0.074;exitDx=0;exitDy=0;exitPerimeter=0;entryX=1;entryY=0.247;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="376" y="499.05999999999995" as="sourcePoint" />
+            <mxPoint x="376" y="531.9299999999998" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="411" y="499" />
+              <mxPoint x="411" y="525" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="5A1ssLU1VLZ0-FPkcArc-41" value="9: getTrasnferScanTask" style="edgeLabel;html=1;align=left;verticalAlign=middle;resizable=0;points=[];" parent="5A1ssLU1VLZ0-FPkcArc-40" vertex="1" connectable="0">
+          <mxGeometry x="0.0343" y="1" relative="1" as="geometry">
+            <mxPoint x="9" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="5A1ssLU1VLZ0-FPkcArc-46" value="" style="endArrow=classic;html=1;" parent="1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="370" y="623" as="sourcePoint" />
+            <mxPoint x="170" y="623" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="5A1ssLU1VLZ0-FPkcArc-47" value="11: send RebalanceHost &lt;br&gt;command" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="5A1ssLU1VLZ0-FPkcArc-46" vertex="1" connectable="0">
+          <mxGeometry x="0.2151" y="-1" relative="1" as="geometry">
+            <mxPoint x="16" y="-1" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="5A1ssLU1VLZ0-FPkcArc-48" value="" style="endArrow=classic;html=1;entryX=1;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" target="5A1ssLU1VLZ0-FPkcArc-10" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="174" y="650" as="sourcePoint" />
+            <mxPoint x="180" y="633" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="5A1ssLU1VLZ0-FPkcArc-49" value="12: connects vCenter" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="5A1ssLU1VLZ0-FPkcArc-48" vertex="1" connectable="0">
+          <mxGeometry x="0.2151" y="-1" relative="1" as="geometry">
+            <mxPoint x="-146" y="-1" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="5A1ssLU1VLZ0-FPkcArc-51" value="" style="curved=1;endArrow=classic;html=1;exitX=1;exitY=0.074;exitDx=0;exitDy=0;exitPerimeter=0;entryX=1;entryY=0.247;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="170" y="670.06" as="sourcePoint" />
+            <mxPoint x="170" y="702.9299999999998" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="205" y="670" />
+              <mxPoint x="205" y="696" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="5A1ssLU1VLZ0-FPkcArc-52" value="13: connect host &amp;amp; &lt;br&gt;send modify storage pool&lt;br&gt;command" style="edgeLabel;html=1;align=left;verticalAlign=middle;resizable=0;points=[];" parent="5A1ssLU1VLZ0-FPkcArc-51" vertex="1" connectable="0">
+          <mxGeometry x="0.0343" y="1" relative="1" as="geometry">
+            <mxPoint x="9" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="5A1ssLU1VLZ0-FPkcArc-53" value="" style="endArrow=classic;html=1;exitX=0.5;exitY=0.881;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="170" y="721.22" as="sourcePoint" />
+            <mxPoint x="369.5" y="721.22" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="5A1ssLU1VLZ0-FPkcArc-54" value="14: Finish Rebalancing" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="5A1ssLU1VLZ0-FPkcArc-53" vertex="1" connectable="0">
+          <mxGeometry x="0.2151" y="-1" relative="1" as="geometry">
+            <mxPoint x="-31" y="-1" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="5A1ssLU1VLZ0-FPkcArc-57" value="" style="points=[];perimeter=orthogonalPerimeter;rounded=0;shadow=0;strokeWidth=1;" parent="1" vertex="1">
+          <mxGeometry x="699" y="434" width="10" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="5A1ssLU1VLZ0-FPkcArc-58" value="" style="points=[];perimeter=orthogonalPerimeter;rounded=0;shadow=0;strokeWidth=1;" parent="1" vertex="1">
+          <mxGeometry x="700" y="613" width="10" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="5A1ssLU1VLZ0-FPkcArc-42" value="" style="endArrow=classic;html=1;exitX=0.9;exitY=0.633;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" source="5A1ssLU1VLZ0-FPkcArc-6" target="5A1ssLU1VLZ0-FPkcArc-25" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="180" y="350" as="sourcePoint" />
+            <mxPoint x="710" y="350" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="5A1ssLU1VLZ0-FPkcArc-43" value="Update host with status&lt;br&gt;&quot;Rebalancing&quot;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="5A1ssLU1VLZ0-FPkcArc-42" vertex="1" connectable="0">
+          <mxGeometry x="0.2151" y="-1" relative="1" as="geometry">
+            <mxPoint x="-6" y="-1" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="5A1ssLU1VLZ0-FPkcArc-33" value="Request Agent &#xa;Rebalance fails" style="verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;shadow=0;strokeWidth=1;entryX=0.5;entryY=0.485;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="5A1ssLU1VLZ0-FPkcArc-2" target="5A1ssLU1VLZ0-FPkcArc-25" edge="1">
+          <mxGeometry x="-0.7133" y="-17" relative="1" as="geometry">
+            <mxPoint x="700" y="450" as="targetPoint" />
+            <mxPoint x="377" y="410" as="sourcePoint" />
+            <Array as="points">
+              <mxPoint x="270" y="433" />
+              <mxPoint x="350" y="433" />
+              <mxPoint x="490" y="433" />
+            </Array>
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ZCcpS0dppCaCtEzsvFH4-1" value="Delete entry from op_host_transfer" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="620" y="420" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
